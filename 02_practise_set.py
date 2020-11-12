@@ -8,7 +8,7 @@ a = 5
 print("The remainder of a when divided by 2 is " , a%2)
 
 # Check the type of the variable assigned using input() function
-a = input("Emter your name")
+a = input("Enter your name")
 print(type(a))
 
 # Use comparison opearators to find out whether a given variable 'a' is greater than 'b' or not. Take a = 34 and b = 80.
